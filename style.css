@@ -1,0 +1,127 @@
+*
+{
+    box-sizing: border-box;
+    color: black;
+}
+a{
+    color: black;
+}
+ a
+{
+    color: black !important;
+}
+.form-control
+{
+    border-bottom: 1px solid grey;
+}
+#nav2
+{
+  height: 7.3vh;
+
+    background-color: rgb(70, 100, 70);
+}
+.icons
+    {
+        font-size: 3em;
+        color: rgb(70, 100, 70) !important;
+    }
+    a{
+        text-decoration: none;
+    }
+    .section1{
+      background-color: #a4b096 !important;
+    }
+    .copy
+    {
+     background-color: #6E716E !important;
+    }
+#fofo i
+{
+  font-size: 2.2em;
+}
+
+#nav3 a{
+    color: white !important;
+}
+/* #twoUL
+{
+    list-style: none;
+    display: none;
+} */
+#twoUL li a{
+    color: black !important;
+} 
+#line
+{
+    position: relative;
+
+}
+#line::before
+{
+    content: "";
+    display: block;
+    width: 15%;
+    height: 1px;
+    background: #a2a2a3;
+    left: 8.5vw;
+    top: 50%;
+    position: absolute;
+}
+#line::after
+{
+
+    content: "";
+    display: block;
+    width: 15%;
+     height: 1px;
+    background: #a2a2a3;
+    right: 8.5vw;
+    top: 50%;
+    position: absolute;
+}
+
+#LINE {
+     content: "\003E";
+  }
+  #homee
+  {
+   height: 6vh;
+  }
+  #subhomee
+  {
+    font-size: .9em;
+  }
+  #order
+  {
+    font-weight: 600;
+    opacity: .7;
+  }
+  #SEND
+  {
+    font-weight:300 !important;
+  }
+  .place
+  {
+    line-height: 0;
+  }
+  /* #butn
+  {
+    border-bottom: 1px solid gray;
+  } */
+  #butn input
+  {
+    border: none;
+    outline: none;
+    border-bottom: 1px solid black;
+  }
+  .card-footer button
+  {
+    background-color: rgb(70, 100, 70);
+    color: white;
+    font-size: 1em;
+  }
+  .naver
+  {
+    background-color: rgb(70, 100, 70) !important;
+    
+  }
